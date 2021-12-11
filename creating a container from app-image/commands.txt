@@ -1,0 +1,6 @@
+[ docker-compose build ] --> this command will build an image with tag "django" which we already done.
+
+
+1: [ docker-compose run --rm app django-admin startproject core .] --> this command is going to build container for us and remove it after that.
+
+2: [docker-compose up ] --> to start the container 

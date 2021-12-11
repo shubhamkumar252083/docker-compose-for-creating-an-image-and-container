@@ -1,0 +1,2 @@
+after creating the image we r connecting docker container with our host's code editor. with this way we will be able to modify the containts of running container using our code editor.
+so for doing that we create a new folder "creating a container from app-image" and cd into that
