@@ -7,5 +7,5 @@ services:
     ports:
       - 7001:7001
     image: app:django
-    container_name: django_container
+    container_name: django_container_changingContentsOfContainerWhileRunning
     command: python manage.py runserver 0.0.0.0:7001
