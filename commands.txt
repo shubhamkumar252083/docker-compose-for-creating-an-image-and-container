@@ -1,0 +1,1 @@
+1: [ docker-compose build ] --> this command will build an image with tag "django".
